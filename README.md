@@ -1,0 +1,1 @@
+# Klavyeden alınan sayının mükemmel sayı olup olmadığı bulur.
